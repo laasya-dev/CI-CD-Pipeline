@@ -28,4 +28,5 @@ jobs:
       run: |
         
     - name: Deploy
-      run: python app.py
+      run: |
+        # Add deployment commands here
